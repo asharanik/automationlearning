@@ -1,0 +1,6 @@
+What is Automation Testing?
+Manual Testing is performed by a human sitting in front of a computer carefully executing the test steps.
+
+Automation Testing means using an automation tool to execute your test case suite.
+
+The automation software can also enter test data into the System Under Test, compare expected and actual results and generate detailed test reports. Test Automation demands considerable investments of money and resources.
